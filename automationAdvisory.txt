@@ -1,0 +1,39 @@
+Automation Consulting/Advisory
+
+In an increasingly competitive market where companies are looking to shrink their time to market and reduce the overall testing costs, the desire to automate most testing processes is quite pressing. Now if you are looking for an automation testing company or a consultant who can facilitate your organization in achieving end to end test automation then CresTech should invariably be your first call. With over a decade of industry experience as a leading automation testing company we bring before you a mix of formidable talent and knowledge along with our unique blend of delivering state of art testing solutions at competitive rates. Our business centric focus looks at delivering highly tailored customized solutions for your need while considering all the subtle parameters that may be applicable.
+
+Why Automation Testing
+
+As compared to traditional manual testing, automation testing is not resource intensive and barely requires any effort to execute once the test framework and design has been set. However one must note that the degree of automation that can be introduced into a project varies according to its specific needs and characteristics such as complexity and frequency. Thus it is always advisable to take input from a reputed automation testing company before looking to automate your testing processes.
+
+An experienced automation testing company can quickly guide you about the intricacies related to automation and make you aware of the salient points. For example it is typically observed that repetitive activities like regression testing are ideal for automation and can lead to significant cost benefits. An experienced automation consultant can easily demonstrate how the reuse of business components and function libraries can lower the costs associated with implementing an automation process and bring down the overall maintenance effort. The ROI you can hope to receive by engaging an automation testing company is significantly higher and quickly move up the learning curve.
+
+What we can do for you
+A number of organizations who prefer to go alone in implementing automation experience complex challenges ranging from lack of expertise to prohibitive investment costs associated with procuring some of the popular proprietary tools and automation frameworks that are in vogue. As an automation testing company which believes in offering innovative solution for our client, we always ensure that your roadmap to automation is smooth and is free of unwanted surprises. We help you develop your own custom framework that gives you the flexibility to initiate early testing, create effectual test scripts during the development lifecycle and reduce resource dependency.
+
+While other automation testing companies simply look at automation from an operational outlook, at CresTech we give equal priority to your business goals. Thus in lot of cases we engage in a Proof of Concept study for our clients which look at understanding the key business advantages that the automation process is likely to result. Based on a detailed cost benefit analysis we layout a precise roadmap for initiating automation while keeping an eye on integrating the existing tools and processes in the best possible manner.
+
+CresTech’s Test automation consulting services helps organizations implement their automation programs more effectively virtually nullifying the chances of failure. Our automation consultants bring in years of experience in automating some of the most complex systems across variety of platforms. We understand client’s business domain, application stability and roadmap on technology re-engineering and then suggest best automation fit strategy for you.
+
+Automation feasibility assessment
+
+We conduct a thorough evaluation of your existing testing processes; regression test suites, application automation index and team skill index to determine what changes may be required to ensure the smooth introduction of an automated approach to software testing within the scope of your overall testing methodology.
+
+Using A2F™ – our propriety assessment methodology, we bring in non invasive assessment techniques to conduct the analysis in fastest possible time and give you clear indication of ROI you can get in short and long term.
+
+Automation strategy and planning
+
+Our consultants help you conduct an in-depth planning assessment with recommendations to help guide you along the path to test automation.
+
+Our consultants help you answer the following question
+
+What type of automation framework you would require
+What automation tools you should use
+What test cases you should automate
+What should be the milestones of the automation exercise so that you can get early ROI
+How can you identify automation risks and plan effective mitigation strategies
+ROI and effectiveness Monitoring
+
+We help you continuously monitor the effectiveness of your automation program by giving you a true picture of the ROI you are getting on your testing dollars and defect detection accuracy of your automation program.
+
+We conduct periodic automation health checks during the implementation and post implementation phase to ensure that you are getting the desired effectiveness from your automation program.
